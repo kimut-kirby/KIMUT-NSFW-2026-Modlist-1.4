@@ -1,0 +1,38 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "KIMUT NSFW 2026 Modlist 1.4",
+    "description": "KIMUT Modlist is built exclusively around Community Shaders with Advanced Complex Materials to achieve next-generation fidelity, and improves almost every aspect of the game.",
+    "author": "Kirbyking",
+    "maintainers": [
+      "github/kimut-kirby"
+    ],
+    "game": "skyrimspecialedition",
+    "tags": [
+      "SFW",
+      "Steam",
+      "Total Overhaul"
+    ],
+    "nsfw": true,
+    "image_contains_title": false,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://raw.githubusercontent.com/kimut-kirby/KIMUT-NSFW-2026-Modlist-1.4/refs/heads/main/3.webp",
+      "readme": "https://github.com/kimut-kirby/KIMUT-NSFW-2026-Modlist-1.4/blob/main/Tutorial%20Instal%20KIMUT%20NSFW%20Modlist%202026%201.4.pdf",
+      "download": "https://authored-files.wabbajack.org/KIMUT%20NSFW%202026%20Modlist.wabbajack_0b537ee1-3fc8-4253-9c99-6dcc15838b39",
+      "machineURL": "JohnsSkyrimMakeover",
+      "discordURL": "https://discord.gg/Gb2DeaPz"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "m4x37IOSEek=",
+      "Size": 139941831,
+      "NumberOfArchives": 1974,
+      "SizeOfArchives": 177388357503,
+      "NumberOfInstalledFiles": 312602,
+      "SizeOfInstalledFiles": 273110918514
+    },
+    "version": "1.4.0"
+  }
+]
